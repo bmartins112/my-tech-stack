@@ -3,12 +3,7 @@
 <p align="left">
   <img src="java.png" width="80" />
   <img src="csharp.png" width="80" />
-  <img src="c.png" width="80" />
-  <img src="node.png" width="80" />
-  <img src="angular.png" width="80" />
   <img src="php.png" width="80" />
-  <img src="sql.png" width="80" />
-  <img src="postman.png" width="80" />
 </p>
 
 
